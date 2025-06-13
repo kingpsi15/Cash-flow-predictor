@@ -9,3 +9,6 @@ Is a comparison of both models, the graphs of each sector showing the actual res
 
 # compare2.py
 Is a comparison of both models, showing which model is superior (i.e. gives more accurate results).
+
+# Instructions to run
+Use Python 3.10; if not available, using a virtual environment is recommended, as pmdarima is not yet compatible with python 3.12. If required, numpy is also recommeded to be downgraded.
